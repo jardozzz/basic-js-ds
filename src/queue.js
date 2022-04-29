@@ -1,4 +1,4 @@
-const { ListNode } = require('../../../basic-js-ds/extensions/list-node.js');
+
 const { NotImplementedError } = require('../extensions/index.js');
 
 // const { ListNode } = require('../extensions/list-node.js');
